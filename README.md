@@ -1,7 +1,7 @@
 [![Masterhead](./assets/GitHubHeader.jpg)](https://www.falconmonks.ga)
 <h1 align="center">Hi 👋, I'm Suraj Shankhpal</h1>
 <h3 align="center">I recently developed passion for coding</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/wG4XXJcGHHNEizMcqt/giphy.gif?cid=790b7611691b6b296fe4bf2166536dab1d3dee11557ba63d&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/A6EkYKEOQX2kHe5pkW/giphy.gif?cid=790b76112ee653cacf67d06786c1d69450493b28a1012375&rid=giphy.gif&ct=g">
 
 
 
