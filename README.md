@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My-website**
 
-- 🌱 I’m currently learning **JAVA and PYTHON**
+- 🌱 I’m currently learning **JAVA, PYTHON, C, C++**
 
 - 👯 I’m looking to collaborate on **--**
 
