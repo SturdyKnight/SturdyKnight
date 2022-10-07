@@ -27,11 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sturdyknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sturdyknight" height="30" width="40" /></a>
+<a href="https://dev.to/sturdyknight" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="sturdyknight" height="30" width="40" /></a>
 </p>
 
 <p align="left">
-<a href="https://twitter.com/falconmonks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sturdyknight" height="30" width="40" /></a>
+<a href="https://twitter.com/falconmonks" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="sturdyknight" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
