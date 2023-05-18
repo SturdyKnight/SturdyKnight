@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **--**
 
-- 👨‍💻 All of my projects are available at [www.falconmonks.ga](https://www.falconmonks.me/)
+- 👨‍💻 All of my projects are available at [www.falconmonks.me](https://www.falconmonks.me/)
 
 - 📝 I regularly write articles on [--](--)
 
