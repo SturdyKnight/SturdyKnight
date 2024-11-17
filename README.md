@@ -1,54 +1,74 @@
 [![Masterhead](./assets/GitHubHeader.jpg)](https://www.falconmonks.ga)
-[![@sturdyknight's Holopin board](https://holopin.io/api/user/board?user=sturdyknight)](https://holopin.io/@sturdyknight)
-<h1 align="center">Hi 👋, I'm Suraj Shankhpal</h1>
-<h3 align="center">I recently developed passion for coding</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/wG4XXJcGHHNEizMcqt/giphy.gif?cid=790b7611691b6b296fe4bf2166536dab1d3dee11557ba63d&rid=giphy.gif&ct=g">
+[![@sturdyknight's Holopin board](https://holopin.io/api/user/board?user=sturdyknight)](https://holopin.io/@sturdyknight)<h1 align="center">Hi 👋, I'm Suraj Shankhpal</h1>
 
-
-
-- 🔭 I’m currently working on **My-website**
-
-- 🌱 I’m currently learning **JAVA, PYTHON, C, C++**
-
-- 👯 I’m looking to collaborate on **--**
-
-- 🤝 I’m looking for help with **--**
-
-- 👨‍💻 All of my projects are available at [www.falconmonks.me](https://www.falconmonks.me/)
-
-- 📝 I regularly write articles on [--](--)
-
-- 💬 Ask me about **Nothing in the present**
-
-- 📫 How to reach me **surajsproductivitymail@gmail.com**
-
-- 📄 Know about my experiences [--](--)
-
-- ⚡ Fun fact **I am good at Graphics Designing and an Introvert Person**
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> </p>
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SturdyKnight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SturdyKnight&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://camo.githubusercontent.com/f904dd45ff8e55dfb497afe44c29e52fd712e1319d8ca88bac5eca2e59f532e7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f77473458584a634748484e45697a4d6371742f67697068792e6769663f6369643d373930623736313136393162366232393666653462663231363635333664616231643364656531313535376261363364267269643d67697068792e6769662663743d67"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Sturdyknight/Sturdyknight/output/snake.svg" alt="Snake animation" />
+###
+
+<br clear="both">
+
+<h5 align="left">🌱 I’m currently working on:<br>My Personal Portfolio.<br><br>👯 I’m looking to collaborate on:<br>Any projects!<br><br>🧐 I’m currently learning:<br>Python Flask.<br><br>💬 Ask me about:<br>Anything you'd like to know.<br><br>⚡ Fun fact:<br>I can work and complete any project without prior knowledge of the language (thanks to AI!).</h5>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/suraj-shankhpal-010a35271/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/falconmonks" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/capzi.e" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto: surajsproductivitymail@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sturdyknight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sturdyknight&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=msmjihiqzvziai7jcfwp58p1w)">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=msmjihiqzvziai7jcfwp58p1w)&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
