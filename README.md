@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<h5 align="left">🌱 I’m currently working on:<br>My Personal Portfolio.<br><br>👯 I’m looking to collaborate on:<br>Any projects!<br><br>🧐 I’m currently learning:<br>Python Flask.<br><br>💬 Ask me about:<br>Anything you'd like to know.<br><br>⚡ Fun fact:<br>I can work and complete any project without prior knowledge of the language (thanks to AI!).</h5>
+<h3 align="left">🌱 I’m currently working on:<br>My Personal Portfolio.<br><br>👯 I’m looking to collaborate on:<br>Any projects!<br><br>🧐 I’m currently learning:<br>Python Flask.<br><br>💬 Ask me about:<br>Anything you'd like to know.<br><br>⚡ Fun fact:<br>I can work and complete any project without prior knowledge of the language (thanks to AI!).</h3>
 
 ###
 
