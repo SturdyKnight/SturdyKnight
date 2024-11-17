@@ -1,5 +1,5 @@
 [![Masterhead](./assets/GitHubHeader.jpg)](https://www.falconmonks.ga)
-[![@sturdyknight's Holopin board](https://holopin.io/api/user/board?user=sturdyknight)](https://holopin.io/@sturdyknight)<h1 align="center">Hi 👋, I'm Suraj Shankhpal</h1>
+<h1 align="center">Hi 👋, I'm Suraj Shankhpal</h1>
 
 ###
 
